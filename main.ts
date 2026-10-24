@@ -1,5 +1,5 @@
 // The website you want to proxy
-const UPSTREAM = "https://example.com"; 
+const UPSTREAM = "https://cyberpunk2077.lol"; 
 
 Deno.serve(async (req: Request) => {
   try {
